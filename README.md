@@ -29,5 +29,5 @@ This webpage can be display in any device. Just click [here](https://github.com/
 
 * [React Forms](https://www.escuelafrontend.com/formularios-en-react)
 * [GitHub pages](https://github.com/gitname/react-gh-pages)
-* [Animaciones CSS](https://codepen.io/marionaroca/pen/MWXGgRY)
+* [Animaciones CSS y mas](https://codepen.io/marionaroca/pen/MWXGgRY)
 

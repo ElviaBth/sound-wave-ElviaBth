@@ -1,6 +1,6 @@
 {
   "name": "sound-wave-elviabth",
-  "homepage": "https://github.com/ElviaBth/sound-wave-ElviaBth",
+  "homepage": "https://ElviaBth.github.io/sound-wave-ElviaBth",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build --base /",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.2.3",

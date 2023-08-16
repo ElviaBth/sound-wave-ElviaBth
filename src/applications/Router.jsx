@@ -6,15 +6,13 @@ import ThirdPage from '../pages/ThirdPage'
 
 function Router() {
   return (
-    <>
-    <BrowserRouter>
+    <BrowserRouter basename='/sound-wave-elviabth'>
         <Routes>
             <Route path='/'  element={<App/>} />
             <Route path='/discover' element={<SecondPage/>} />
             <Route path='/join' element={<ThirdPage/>} />
         </Routes>
     </BrowserRouter>
-    </>
   )
 }
 

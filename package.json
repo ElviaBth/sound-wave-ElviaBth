@@ -2,7 +2,7 @@
   "name": "sound-wave-elviabth",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://elviabth.github.io/sound-wave-elviabth/",
+  "homepage":"https://elviabth.github.io/sound-wave-ElviaBth/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

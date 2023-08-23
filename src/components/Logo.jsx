@@ -6,8 +6,8 @@ import '../styles/Logo.css'
 function Logo() {
   return (
     <div className='logo'>
-        <Link to= {'/'}><img src={theLogo} alt="Sound Wave webpage Logo."  /></Link>
-        <span><Link to= {'/'}>Soundwave</Link></span>
+        <Link to= {'/sound-wave-ElviaBth'}><img src={theLogo} alt="Sound Wave webpage Logo."  /></Link>
+        <span><Link to= {'/sound-wave-ElviaBth'}>Soundwave</Link></span>
     </div>
   )
 }
